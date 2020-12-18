@@ -1,0 +1,78 @@
+body{
+    background-color: black!important;
+}
+.nav-link:hover{
+    color: rgb(13, 110, 253)!important;
+}
+.navbar-brand{
+    color: rgb(13, 110, 253)!important;
+}
+.navbar{
+    background: black!important;
+}
+.navbar-toggler{
+    color: rgb(13, 110, 253)!important;
+}
+.form-control{
+    background-color: black!important;
+    border: solid 1px rgb(13, 110, 253)!important;
+}
+.main{
+    height: 100vh;
+    background: black;
+}
+::-webkit-scrollbar{
+    width: 5px;
+    background: black;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(13, 110, 253);
+}
+.container{
+    height: 15vh!important;
+    border: solid 3px rgb(13, 110, 253)!important;
+}
+.input_text{
+    border: solid 3px rgb(13, 110, 253);
+    height: 7vh!important;
+    display: flex;
+    margin: 1px 2px!important;
+    margin-bottom: 10px!important;
+}
+.form-control{
+    border: none!important;
+    border-radius: 0px!important;
+}
+.btn1{
+    height: 45px!important;
+    border: none!important;
+    margin:1px 1px!important;
+    border-radius: 0px!important;
+    padding-top: 8px!important;
+}
+.card-body{
+    text-align: center!important;
+}
+input{
+    color: rgb(255, 255, 255)!important;
+}
+.card-title{
+    text-align: center;
+    color: white
+}
+.card-text{
+    color: white!important;
+}
+.main{
+    padding-top: 30px!important;
+}
+.stick{
+    height: 70vh!important;
+    border: 2px solid rgb(13, 110, 253)!important;
+    margin: 35px 2px!important;
+    
+}
+.row{
+    --bs-gutter-x:0rem !important;
+}
+
